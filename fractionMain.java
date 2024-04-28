@@ -1,11 +1,4 @@
- 
-/** Name: Justin Tran
- * Course: ICS4U
- * Date: November 7th, 2022
- * Purpose: Allow the user to open the menu and access the functions of fractions
- */
-  package fractions;
-
+package fractions;
 import java.util.*;
 import java.lang.Math;
  
