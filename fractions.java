@@ -1,14 +1,4 @@
 package fractions;
-
-
-
-/** Name: Nearhos Hatzinikolaou
-* Course: ICS4U
-* Date:
-* Purpose: Allow the main to access methods stored in the class and store
-Different objects
-*/
- 
 public class fractions {
     private double denominator1;
     private double denominator2;
